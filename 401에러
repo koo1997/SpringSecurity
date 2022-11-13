@@ -1,0 +1,6 @@
+401 Unauthorized
+
+
+에러명
+Similar to 403 Forbidden, but specifically for use when authentication is possible but has failed or not yet been provided. 
+The response must include a WWW-Authenticate header field containing a challenge applicable to the requested resource.
